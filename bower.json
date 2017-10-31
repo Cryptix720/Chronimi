@@ -1,0 +1,27 @@
+{
+  "name"        : "Chronimi",
+  "description": "Chronimi empowers graphic design is the application.",
+ 
+  "author": {
+    "name" : "Chris Pro"
+  },
+  "dependencies": {
+    "jquery"      : ">=1.9"
+  },
+  "main": [
+    "src/chromini.less",
+    "disto/chromini.js"
+  ],
+  "keywords": [
+    "css3",
+    "colors",
+    "framework",
+    "flow",
+	"chronimi"
+  ],
+  "license" : "MIT",
+  "ignore": [
+    "src/site",
+    "test"
+  ]
+}

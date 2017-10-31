@@ -1,0 +1,25 @@
+{
+  "name"        : "chronimi",
+  "description" : "Chronimi empowers graphic design is the application.",
+
+  "authors"     : [
+    {
+      "name"     : "Chris Pro",
+      "email"    : "prokic720x@gmail.com",
+     
+      "role"     : "Creator"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/chronimi/issues",
+    "source": "https://github.com/chronimi"
+  },
+  "keywords" : [
+    "chronimi",
+    "ui",
+	"colors",
+    "css3",
+    "framework"
+  ],
+  "license" : "MIT"
+}
