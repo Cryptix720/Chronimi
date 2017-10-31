@@ -35,7 +35,7 @@ Visit our [contributing guide](https://github.com/chronimi/blob/master/CONTRIBUT
 
 #### Recommended Install
 ```bash
-npm install chronimi-ui  # Use themes, import build/watch tasks into your own gulpfile.
+npm install chronimi  # Use themes, import build/watch tasks into your own gulpfile.
 ```
 
 
@@ -43,15 +43,15 @@ npm install chronimi-ui  # Use themes, import build/watch tasks into your own gu
 
 Environment | Install Script | Repo
 --- | --- | --- |
-CSS Only | `npm install chronimi-ui-css` | [CSS Repo](https://github.com/chronimi-Org/chronimi-UI-CSS)
-[LESS](https://github.com/less/less.js/) Only | `npm install chronimi-ui-less` | [LESS Repo](https://github.com/chronimi-Org/chronimi-UI-LESS)
-[LESS](https://github.com/less/less.js/) plugin | `npm install less-plugin-chronimi-ui` | [LESS Plugin Repo](https://github.com/bassjobsen/less-plugin-chronimi-ui/)
-[EmberJS](http://emberjs.com/) | `ember install:addon chronimi-ui-ember` | [Ember Repo](https://github.com/chronimi-Org/chronimi-UI-Ember)
-|[Meteor](https://www.meteor.com/) - [LESS](https://github.com/less/less.js/) | `meteor add chronimi:ui` | [Meteor Repo](https://github.com/chronimi-Org/chronimi-UI-Meteor) |
-|[Meteor](https://www.meteor.com/) - CSS | `meteor add chronimi:ui-css` | [CSS Repo](https://github.com/chronimi-Org/chronimi-UI-CSS) |
-[Bower](http://bower.io/) | `bower install chronimi-ui` |
+CSS Only | `npm install chronimi-css` | [CSS Repo](https://github.com/Cryptix720/Chronimi/tree/master/distro/chronimi.css)
+[LESS](https://github.com/less/less.js/) Only | `npm install chronimi-less` | [LESS Repo](https://github.com/chronimi/chronimi-LESS)
+[LESS](https://github.com/less/less.js/) plugin | `npm install less-plugin-chronimi` | [LESS Plugin Repo](https://github.com/bassjobsen/less-plugin-chronimi/)
+[EmberJS](http://emberjs.com/) | `ember install:addon chronimi-ember` | [Ember Repo](https://github.com/chronimi-Org/chronimi-Ember)
+|[Meteor](https://www.meteor.com/) - [LESS](https://github.com/less/less.js/) | `meteor add chronimi:` | [Meteor Repo](https://github.com/chronimi-Meteor) |
+|[Meteor](https://www.meteor.com/) - CSS | `meteor add chronimi:-css` | [CSS Repo](https://github.com/Cryptix720/Chronimi/tree/master/distro/chronimi.min.css) |
+[Bower](http://bower.io/) | `bower install chronimi-` |
 
-Check out our [integration wiki](https://github.com/chronimi-Org/chronimi-UI/wiki/Integration) for more options.
+Check out our [integration wiki](https://github.com/chronimi-ui/wiki/Integration) for more options.
 
 #### Browser Support
 
@@ -66,13 +66,13 @@ Although some components will work in IE9, [grids](http://chronimi-ui.com/collec
 ## Community
 
 #### Getting Help
-Please **do not post** usage questions to GitHub Issues. For these types of questions use our [Gitter chatroom](https://gitter.im/chronimi-Org/chronimi-UI), [chronimi UI forums](http://forums.chronimi-ui.com) or [StackOverflow](http://stackoverflow.com/questions/tagged/chronimi-ui).
+Please **do not post** usage questions to GitHub Issues. For these types of questions use our [Gitter chatroom](https://gitter.im/chronimi-ui, [chronimi UI forums](http://forums.chronimi-ui.com) or [StackOverflow](http://stackoverflow.com/questions/tagged/chronimi).
 
 
 
 #### International
 
-* **Chinese** A Chinese mirror site is available at [http://www.chronimi-ui.cn](http://www.chronimi-ui.cn).
+* **Chinese** A Chinese mirror site is available at [http://www.chronimi-ui.cn](http://www.chronimi.cn).
 * **Right-to-Left (RTL)** An RTL version can be created using our build tools by selecting `rtl` from the install script.
-* **Translation** To help translate see the [Wiki Guide](https://github.com/chronimi-Org/chronimi-UI/wiki/Translating-chronimi-UI-Docs) for translations.
+* **Translation** To help translate see the [Wiki Guide](https://github.com/chronimi/wiki/Translating-chronimi-UI-Docs) for translations.
 
