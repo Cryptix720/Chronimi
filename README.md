@@ -1,4 +1,4 @@
-![chronimi](http://cryptix720.github.com/chronimi.png)
+![chronimi](https://github.com/Cryptix720/Chronimi/blob/master/chronimi.png)
 
 # chronimi UI
 
