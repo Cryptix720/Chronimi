@@ -2,7 +2,10 @@
 
 # chronimi UI
 
-
+[![CDNJS](https://img.shields.io/badge/Chronimi-1.0.0-yellowgreen.svg)](https://cdnjs.com/libraries/chronimi/)
+[![GitHub issues](https://img.shields.io/github/issues/Cryptix720/Chronimi.svg)](https://github.com/Cryptix720/Chronimi/issues)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/Cryptix720/Chronimi/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Cryptix720/Chronimi.svg)](https://github.com/Cryptix720/Chronimi/stargazers)
 
 chronimi is a UI framework enchated for high-class theming.
 
