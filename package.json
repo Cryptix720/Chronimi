@@ -91,7 +91,7 @@
     "flow",
 	"chronimi"
   ],
-    "style": "distro/chronimi.css"
+    "style": "distro/chronimi.css",
   "author": "Chris Pro",
   "license": "MIT"
 }
