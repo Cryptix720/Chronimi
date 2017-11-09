@@ -1,3 +1,13 @@
+/*!
+ * # Chronimi 1.0.0 - Site
+ * http://github.com/chronimi/
+ *
+ *
+ * Released under the MIT license
+ * http://opensource.org/licenses/MIT
+ *
+ */
+
 ;(function ($, window, document, undefined) {
 
 $.site = $.fn.site = function(parameters) {
