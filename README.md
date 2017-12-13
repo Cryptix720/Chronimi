@@ -63,16 +63,5 @@ Check out our [integration wiki](https://github.com/chronimi-ui/wiki/Integration
 
 Although some components will work in IE9, [grids](http://chronimi-ui.com/collections/grid.html) and other [flexbox](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Flexible_boxes) components are not supported by IE9 and may not appear correctly.
 
-## Community
 
-#### Getting Help
-Please **do not post** usage questions to GitHub Issues. For these types of questions use our [Gitter chatroom](https://gitter.im/chronimi-ui, [chronimi UI forums](http://forums.chronimi-ui.com) or [StackOverflow](http://stackoverflow.com/questions/tagged/chronimi).
-
-
-
-#### International
-
-* **Chinese** A Chinese mirror site is available at [http://www.chronimi-ui.cn](http://www.chronimi.cn).
-* **Right-to-Left (RTL)** An RTL version can be created using our build tools by selecting `rtl` from the install script.
-* **Translation** To help translate see the [Wiki Guide](https://github.com/chronimi/wiki/Translating-chronimi-UI-Docs) for translations.
 
